@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Christ the Redeemer",
+    "description": "An iconic statue of Jesus Christ in Rio de Janeiro, Brazil.",
+    "modelPath": "christ_the_redeemer.glb"
+  },
+  {
+    "name": "Eiffel Tower",
+    "description": "A wrought-iron lattice tower in Paris, France.",
+    "modelPath": "eiffel_tower.glb"
+  },
+  {
+    "name": "Pyramid of Menkaure",
+    "description": "The smallest of the three pyramids of Giza, Egypt.",
+    "modelPath": "pyramid_of_menkaure.glb"
+  },
+  {
+    "name": "Statue of Liberty",
+    "description": "A colossal neoclassical sculpture on Liberty Island in New York City.",
+    "modelPath": "statue_of_liberty.glb"
+  },
+  {
+    "name": "Torre Pisa",
+    "description": "The famous leaning tower in Pisa, Italy.",
+    "modelPath": "torre_pisa.glb"
+  }
+]
