@@ -7,10 +7,9 @@ AR Landmark App is a simple Android application that uses ARCore and Sceneform t
 # Features
 
 - Interactive Landmark Selection: Choose from a variety of landmarks, such as the Statue of Liberty, Christ the Redeemer, and the Eiffel Tower.
-- Augmented Reality Integration: Place and view 3D models in AR using ARCore.
-- Landmark Details: Displays information about the selected landmark.
+- Augmented Reality Integration: Scan for surfaces in the environment
 - Surface Detection: Tap on detected AR surfaces to place the landmark model.
-- Toggle Information: Show or hide landmark details while viewing the AR scene.
+- Toggle Information: Show or hide landmark information about the selected landmark while viewing the AR scene.
 - Back Navigation: Easily return to the landmark selection screen.
 
 # Technologies used
